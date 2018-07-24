@@ -1,4 +1,0 @@
-Author: CryosisOS
-Date Created: 2018-07-24
-
-This file contains information on how Outlook structures it's signatures for emails.
